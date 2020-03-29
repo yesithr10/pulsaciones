@@ -1,0 +1,10 @@
+C:\Users\Mario Mendoza\source\repos\PulsacionesUI_\Entity\bin\Debug\Entity.dll
+C:\Users\Mario Mendoza\source\repos\PulsacionesUI_\Entity\bin\Debug\Entity.pdb
+C:\Users\Mario Mendoza\source\repos\PulsacionesUI_\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Mario Mendoza\source\repos\PulsacionesUI_\Entity\obj\Debug\Entity.dll
+C:\Users\Mario Mendoza\source\repos\PulsacionesUI_\Entity\obj\Debug\Entity.pdb
+C:\Users\Orlando Rojano\Desktop\PulsacionesUI_\Entity\bin\Debug\Entity.dll
+C:\Users\Orlando Rojano\Desktop\PulsacionesUI_\Entity\bin\Debug\Entity.pdb
+C:\Users\Orlando Rojano\Desktop\PulsacionesUI_\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Orlando Rojano\Desktop\PulsacionesUI_\Entity\obj\Debug\Entity.dll
+C:\Users\Orlando Rojano\Desktop\PulsacionesUI_\Entity\obj\Debug\Entity.pdb
